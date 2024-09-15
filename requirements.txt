@@ -1,0 +1,6 @@
+frida-tools
+radare2
+requests
+electron
+PyQt5  # or another UI framework of choice
+
