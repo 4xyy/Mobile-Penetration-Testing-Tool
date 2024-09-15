@@ -1,4 +1,4 @@
-# AI Vulnerability Scanner
+# Mobile Vulnerability Scanner
 
 **Status: Under Development (Not Fully Tested)**
 
@@ -25,14 +25,16 @@ We are actively seeking help from the community to test and validate this tool. 
 5. **Provide Feedback:** Let us know what worked well and what didn't. Your feedback helps guide our development efforts.
 
 ### **Getting Started with Testing:**
- **Clone the Repository:**
-   git clone https://github.com/4xyy/Mobile-Penetration-Testing-Tool.git
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/<your-username>/Mobile-Penetration-Testing-Tool.git
    cd Mobile-Penetration-Testing-Tool
-Set Up the Environment:
+Set Up the Environment and run:
 python3 -m venv .venv
 source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
 pip install -r requirements.txt
-Run the Tool:
 python main.py
+
+
 
 
