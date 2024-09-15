@@ -1,11 +1,11 @@
 # Mobile Vulnerability Scanner
 
-**Status: Under Development (Not Fully Tested)**
+**Status: Under Development (Not Tested)**
 
 This tool is currently in the development stage and has not undergone thorough testing. It is not recommended for production use at this time. 
 
 ## Overview
-The AI Vulnerability Scanner is designed to automate the scanning of mobile applications for common security vulnerabilities. It uses AI-driven analysis to provide insights and suggested remediation steps, making it easier for penetration testers to assess and secure mobile apps.
+The Mobile Vulnerability Scanner is designed to automate the scanning of mobile applications for common security vulnerabilities. It uses AI-driven analysis to provide insights and suggested remediation steps, making it easier for penetration testers to assess and secure mobile apps.
 
 ## Current Features
 - **Static Analysis:** Scans APK/IPA files for hardcoded secrets, insecure permissions, and more.
