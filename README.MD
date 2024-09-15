@@ -27,7 +27,7 @@ We are actively seeking help from the community to test and validate this tool. 
 ### **Getting Started with Testing:**
  **Clone the Repository:**
    ```bash
- git clone https://github.com/<your-username>/Mobile-Penetration-Testing-Tool.git
+ git clone https://github.com/4xyy/Mobile-Penetration-Testing-Tool.git
  cd Mobile-Penetration-Testing-Tool
  python3 -m venv .venv 
 source .venv/bin/activate # On Windows use: .venv\Scripts\activate 
