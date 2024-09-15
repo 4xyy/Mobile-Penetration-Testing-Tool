@@ -27,6 +27,6 @@ We are actively seeking help from the community to test and validate this tool. 
 ### **Getting Started with Testing:**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-username>/Mobile-Penetration-Testing-Tool.git
+   git clone https://github.com/4xyy/Mobile-Penetration-Testing-Tool.git
    cd Mobile-Penetration-Testing-Tool
 
