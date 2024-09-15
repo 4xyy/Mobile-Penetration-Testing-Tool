@@ -25,16 +25,13 @@ We are actively seeking help from the community to test and validate this tool. 
 5. **Provide Feedback:** Let us know what worked well and what didn't. Your feedback helps guide our development efforts.
 
 ### **Getting Started with Testing:**
-1. **Clone the Repository:**
+ **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-username>/Mobile-Penetration-Testing-Tool.git
-   cd Mobile-Penetration-Testing-Tool
-Set Up the Environment and run:
-python3 -m venv .venv
-source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
+ git clone https://github.com/<your-username>/Mobile-Penetration-Testing-Tool.git
+ cd Mobile-Penetration-Testing-Tool
+ python3 -m venv .venv 
+source .venv/bin/activate # On Windows use: .venv\Scripts\activate 
 pip install -r requirements.txt
-python main.py
-
-
+python main.py 
 
 
